@@ -1,0 +1,70 @@
+/* Add your styles here */
+body {
+  background-color: #FAF6F6;
+  padding: 10px 20px;
+  margin: 10px 20px;
+  height:auto;
+  width:auto;
+  font-size: 17px;
+  font-family: sans-serif;
+  color: #420217;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: auto;
+  border-radius: 5px;
+  border: 1px solid;
+  }
+
+img:hover{
+  border-bottom: 10px solid purple;
+  border-right: 10px solid purple;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0.67em; 
+}
+  em {
+  color: brown;
+  margin-top: 0.2rem;
+  }
+
+p{
+  line-height: 1.5;
+}
+
+ul  {
+ list-style: disc inside;
+  line-height: 1.8;
+  font-family: serif;
+  font-size: 20px;
+  }
+
+a:link {
+  font-style: italic;
+  text-decoration: none;
+  color: blue;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+a:active {
+  color: #B6C2D9;
+}
+
+ol {
+  line-height: 2;
+  font-family: serif;
+  font-size: 20px;
+  list-style: disc inside;
+}
