@@ -1,0 +1,52 @@
+/* 
+  Insert any CSS code below here
+  You can change the div styles if you want!
+*/
+
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid purple;
+  background-color: #C9E4E7;
+  color: #420217;
+  padding: 0.5em;
+  margin: 10em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  height: 100px
+  width: 100px
+ }
+
+h1 {
+  font-size: 4em;
+  font-variant: small-caps;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+  font-size: 25px;
+  font-variant: small-caps;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ line-height: 0.5px;
+}
+
+#contact {
+  font-size: 18px;
+  font-family: 'Georgia', Times New Roman, Times, serif;  
+}
+
+img {
+  padding: 1em;
+  margin: 1em;
+}
+
+ul {
+  padding: 1.5em;
+  margin: 1.5em;
+  margin-top: 0%;
+  border: solid 1.5px;
+  font-size: 20px;  
+  font-weight: bold;
+  text-align: left;
+  line-height: 1.5em;
+}
