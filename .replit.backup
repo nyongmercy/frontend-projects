@@ -1,4 +1,4 @@
-hidden=[".config"]
+en=[".config"]
 
 # hosting is currently hardcoded for this language
 # [hosting]
@@ -7,6 +7,8 @@ hidden=[".config"]
 
 [nix]
 channel = "stable-22_11"
+
+
 
 [languages.html]
 pattern = "**/*.html"
